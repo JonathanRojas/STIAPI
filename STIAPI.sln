@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STIAPI", "STIAPI\STIAPI.csproj", "{7099AD74-7D65-4853-8AE8-38D3A9B5E408}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "STIModel", "STIModel\STIModel.vbproj", "{5153F64B-1526-4FD6-AB86-74B0EEF8ADA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7099AD74-7D65-4853-8AE8-38D3A9B5E408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7099AD74-7D65-4853-8AE8-38D3A9B5E408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7099AD74-7D65-4853-8AE8-38D3A9B5E408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7099AD74-7D65-4853-8AE8-38D3A9B5E408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5153F64B-1526-4FD6-AB86-74B0EEF8ADA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5153F64B-1526-4FD6-AB86-74B0EEF8ADA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5153F64B-1526-4FD6-AB86-74B0EEF8ADA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5153F64B-1526-4FD6-AB86-74B0EEF8ADA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70F6D0F8-19A0-4B26-B30C-9CDA60D39C94}
+	EndGlobalSection
+EndGlobal
