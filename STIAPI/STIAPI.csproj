@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <Reference Include="CamaraDeDiputadosLibrary">
-      <HintPath>..\..\..\..\Documents\Angular\Angular 8\Remuneraciones\CamaraDeDiputadosLibrary.dll</HintPath>
+      <HintPath>..\..\..\..\Documents\CamaraDeDiputadosLibrary.dll</HintPath>
     </Reference>
   </ItemGroup>
 
